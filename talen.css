@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+html{
+    background-color: #EF7D1B;
+    font-family: 'Quicksand', sans-serif;
+}
+
+
+#arrow img{
+    height: 100px;
+    width: 100px;
+}
+
+/*Nederlands en engels*/
+
+#nederland img{
+    height: 200px;
+    width: 370px;
+    margin-top: 20%;
+    margin-left: 6%;
+}
+
+#nederland h1{
+    color: white;
+    margin-left: 13%;
+    margin-bottom: 6%;
+    font-size: 40px;
+}
+
+#nederland #engels{
+    height: 200px;
+    width: 370px;
+    margin-top: 20%;
+    margin-right: 6%;
+    float: right;
+    border-radius: 30px;
+    background-color: white;
+
+}
+
+#nederland #h-engels{
+    margin-left: 68%;
+    margin-top: -11%;
+}
+
+/*Spanje en arabisch*/
+
+#spanje img{
+    height: 200px;
+    width: 370px;
+    margin-top: 10%;
+    margin-left: 6%;
+}
+
+#spanje h1{
+    color: white;
+    margin-left: 17%;
+    margin-bottom: 6%;
+    font-size: 40px;
+}
+
+#spanje #arabisch{
+    height: 200px;
+    width: 370px;
+    margin-top: 10%;
+    margin-right: 6%;
+    float: right;
+}
+
+#spanje #h-arab{
+    margin-left: 70%;
+    margin-top: -11%;
+}
+
+/*frankrijk en duitsland*/
+
+#frankrijk img{
+    height: 200px;
+    width: 370px;
+    margin-top: 10%;
+    margin-left:6%;
+}
+
+#frankrijk h1{
+    color: white;
+    margin-left: 17%;
+    margin-bottom: 10%;
+    font-size: 40px;
+}
+
+#frankrijk #duits{
+    height: 200px;
+    width: 370px;
+    margin-top: 10%;
+    margin-right:6%;
+    float: right;
+}
+
+#frankrijk #h-duits{
+    margin-left: 67%;
+    margin-top: -14%;
+}
+
+
+

@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+html{
+    background-color: #EF7D1B;
+    font-family: 'Quicksand', sans-serif;
+}
+
+ /*Title*/
+
+.title{
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 80px;
+    width: 90%;
+    height: 2%;
+    margin: 0 auto;
+    margin-top: 10%;
+}
+
+.title img{
+    height: 10%;
+    width: 100%;
+}
+
+
+ p{
+    text-align: center;
+    font-size: 60px;
+    color: #cbcbc0;
+
+}
+
+ /*login*/
+
+ .login h1{
+   text-align: center;
+   color: #eaf5ea;
+ }
+
+ .login input[type=text], input[type=password]{
+     width: 80%;
+     height: 100px;
+     padding: 12px 20px;
+     margin: 8px 0;
+     margin-left: 10%;
+     display: inline-block;
+     border: 1px solid #ccc;
+     border-radius: 10px;
+     box-sizing: border-box;
+     font-size: 50px;
+ }
+
+.button{
+    height: 180px;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 5%;
+    border: 1px solid #838383;
+    border-radius: 15px;
+    font-size: 100px;
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#5e5e5e+0,5e5e5e+50,5e5e5e+50,2989d8+50,838383+50,838383+100 */
+    background: #5e5e5e; /* Old browsers */
+    background: -moz-linear-gradient(left, #5e5e5e 0%, #5e5e5e 50%, #5e5e5e 50%, #2989d8 50%, #838383 50%, #838383 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left, #5e5e5e 0%,#5e5e5e 50%,#5e5e5e 50%,#2989d8 50%,#838383 50%,#838383 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, #5e5e5e 0%,#5e5e5e 50%,#5e5e5e 50%,#2989d8 50%,#838383 50%,#838383 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5e5e5e', endColorstr='#838383',GradientType=1 ); /* IE6-9 */
+    color: white;
+}
+
+.button:hover{
+    background-color: #5E5E5E;
+}
+
+/*footer*/
+
+.footer p{
+    color: white;
+    font-size: 20px;
+    margin-top: 25%;
+    margin-left: 5%;
+    text-align: left;
+}

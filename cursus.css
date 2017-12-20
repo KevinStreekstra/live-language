@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+html{
+    background-color: #EF7D1B;
+    font-family: 'Quicksand', sans-serif;
+}
+
+/*header*/
+
+.header img{
+    height: 150px;
+    width: 150px;
+    margin-left: 5%;
+    margin-top: 3%;
+}
+
+/*buttons*/
+
+hr{
+    width: 80%;
+    margin-top: 5%;
+    border-bottom: 8px solid white;
+}
+
+.buttons{
+    margin-top:40%;
+}
+
+.buttons .button{
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#838383+0,838383+50,5e5e5e+51,5e5e5e+100 */
+    background: #838383; /* Old browsers */
+    background: -moz-linear-gradient(left, #838383 0%, #838383 50%, #5e5e5e 51%, #5e5e5e 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left, #838383 0%,#838383 50%,#5e5e5e 51%,#5e5e5e 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, #838383 0%,#838383 50%,#5e5e5e 51%,#5e5e5e 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#838383', endColorstr='#5e5e5e',GradientType=1 ); /* IE6-9 */
+    height: 180px;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 5%;
+    border: 1px solid #838383;
+    border-radius: 15px;
+    font-size: 100px;
+    color: white;
+}
+
+.buttons .button2{
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#5e5e5e+0,5e5e5e+50,5e5e5e+50,2989d8+50,838383+50,838383+100 */
+    background: #5e5e5e; /* Old browsers */
+    background: -moz-linear-gradient(left, #5e5e5e 0%, #5e5e5e 50%, #5e5e5e 50%, #2989d8 50%, #838383 50%, #838383 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left, #5e5e5e 0%,#5e5e5e 50%,#5e5e5e 50%,#2989d8 50%,#838383 50%,#838383 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, #5e5e5e 0%,#5e5e5e 50%,#5e5e5e 50%,#2989d8 50%,#838383 50%,#838383 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5e5e5e', endColorstr='#838383',GradientType=1 ); /* IE6-9 */
+    color: white;
+    height: 180px;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 5%;
+    border: 1px solid #838383;
+    border-radius: 15px;
+    font-size: 100px;
+}
